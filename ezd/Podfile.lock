@@ -1,0 +1,56 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - Masonry (1.0.2)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - MyLayout (1.2.7)
+  - NSObjectExtend (1.8.1):
+    - NSObjectExtend/All (= 1.8.1)
+  - NSObjectExtend/All (1.8.1):
+    - NSObjectExtend/Core
+    - NSObjectExtend/CoreLocation
+    - NSObjectExtend/UIKit
+  - NSObjectExtend/Core (1.8.1)
+  - NSObjectExtend/CoreLocation (1.8.1):
+    - NSObjectExtend/Core
+  - NSObjectExtend/UIKit (1.8.1):
+    - NSObjectExtend/Core
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - FMDB (~> 2.6)
+  - Masonry (~> 1.0)
+  - MJExtension (~> 3.0)
+  - MJRefresh (~> 3.1)
+  - MyLayout (~> 1.2)
+  - NSObjectExtend (~> 1.8)
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  MyLayout: fda4f2e5f70040304915f98f5d495c1e958fd32d
+  NSObjectExtend: cf77da3b288c26bd695584bada8f891e0cddad18
+
+PODFILE CHECKSUM: 3c366f3d1e309f37db6918e19e6a2182482ec616
+
+COCOAPODS: 1.1.1

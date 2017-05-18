@@ -1,0 +1,10 @@
+platform :ios, '8.0'
+target 'ezd' do
+pod 'AFNetworking',                                '~> 3.0'
+pod 'FMDB',                                        '~> 2.6'
+pod 'Masonry',                                     '~> 1.0'
+pod 'MJExtension',                                 '~> 3.0'
+pod 'MJRefresh',                                   '~> 3.1'
+pod 'NSObjectExtend',                              '~> 1.8'   # NSObject 系列类添扩展
+pod 'MyLayout',                                    '~> 1.2'   # iOS界面布局库,基于对frame属性
+end
